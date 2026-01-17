@@ -35,4 +35,3 @@ console.log(y);
     Como a variável y existe somente no dentro do bloco, quando foi utilizana novamente fora foi criada uma nova variável.
     Poderia ser por exemplo let y = 'Trocou o valor'
 */
-
